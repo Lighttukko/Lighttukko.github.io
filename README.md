@@ -21,7 +21,7 @@ I built this project as a personal web platform to combine a simple user-facing 
 - `README.md` – project documentation
 
 
-## What i could do in hte future one by one
+## What i could improve or new feature that can be added
 - Improve the frontend design and responsiveness
 - Add more interactive website features
 - Expand backend functionality

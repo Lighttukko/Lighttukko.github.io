@@ -14,6 +14,11 @@ font-size:20px;
 body{
 font-family:"Times New Roman";
 font-size:20px;
+background: linear-gradient(180deg, #fffaf0 0%, #fdead2 100%);
+background-attachment: fixed; /* to keep stationary while scrolling */
+    
+margin: 0;
+padding: 20px;
 }
 
 a:link{
